@@ -4,6 +4,7 @@ This is a Basic Script to manage a remote server on BASH Script.
 2. Generate SSH Key (From)
 3. Add your SSH Key (From) to your other computer (TO)
 4. copy this repository and store it (Example: "/script/remote/main.sh")
+   "git clone https://github.com/Ineilsl/remoteController.git"
 5. Add the alias
    5.1 vi ~/.bashrc
    5.2 alias server='bash /script/remote/main.sh'
